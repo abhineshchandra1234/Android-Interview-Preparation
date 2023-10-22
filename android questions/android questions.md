@@ -22,3 +22,4 @@
 
 ## References
 - [Android Interview Questions](https://www.interviewbit.com/android-interview-questions/)
+- [Android (operating system)](https://en.wikipedia.org/wiki/Android_(operating_system))
